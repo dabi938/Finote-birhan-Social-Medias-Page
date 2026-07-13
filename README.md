@@ -67,3 +67,4 @@ that file, then reference its key from a new entry in `links`.
   console — wire `Newsletter.jsx`'s `handleSubmit` up to your provider
   (Mailchimp, ConvertKit, Firebase, your own API, etc).
 # Finote-birhan-Social-Medias-Page
+# Finote-birhan-Social-Medias-Page
