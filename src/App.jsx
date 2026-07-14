@@ -11,8 +11,9 @@ export default function App() {
           logoAlt={siteData.logoAlt}
           titleAmharic={siteData.titleAmharic}
           titleEnglish={siteData.titleEnglish}
+descriptionAmharic={siteData.descriptionAmharic}
           // descriptionEnglish={siteData.descriptionEnglish}
-          descriptionAmharic={siteData.descriptionAmharic}
+      
         />
 
         <main className="content">
