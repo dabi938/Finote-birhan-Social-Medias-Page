@@ -23,7 +23,7 @@ const siteData = {
     { id: 'instagram', label: 'Instagram', icon: 'instagram', url: 'https://www.instagram.com/finote_birhan10?igsh=ajZ4cDd0Zm5pdGd3' },
     { id: 'tiktok', label: 'TikTok', icon: 'tiktok', url: 'https://vm.tiktok.com/ZS9MXNvWKEkKh-ejsWU/' },
     { id: 'youtube', label: 'YouTube', icon: 'youtube', url: 'https://youtube.com/@finotebirhan' },
-    { id: 'telegram', label: 'Telegram', icon: 'telegram', url: 'https://t.me/fenotbrehan' },
+    { id: 'telegram', label: 'Telegram', icon: 'telegram', url: 'https://telegram.me/fenotbrehan' },
   ],
 
   newsletter: {
