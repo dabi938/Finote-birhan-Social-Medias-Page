@@ -14,8 +14,7 @@ const siteData = {
 
   // descriptionEnglish:
   //   'A channel dedicated to spiritual growth and community building through Ethiopian Orthodox Tewahedo media.',
-  descriptionAmharic: 'ይህ በኢ/ኦ/ተ/ቤ/ክር፣ በሸ/ከ/የቡ/ክ/ከተማ የፄዴንያ ስመኝ ቅድስት ድንግል ማርያም ገዳም ፍኖተ ብርሃን ሰንበት ትምህርት ቤት ይፋዊ የማኅበራዊ ሚዲያ ገጽ ሊንኮች ማግኛ ፔጅ ነው ።
-‎',
+  descriptionAmharic: `ይህ በኢ/ኦ/ተ/ቤ/ክር፣ በሸ/ከ/የቡ/ክ/ከተማ የፄዴንያ ስመኝ ቅድስት ድንግል ማርያም ገዳም ፍኖተ ብርሃን ሰንበት ትምህርት ቤት ይፋዊ የማኅበራዊ ሚዲያ ገጽ ሊንኮች ማግኛ ፔጅ ነው።`,
 
   // Each link becomes one row. `icon` must match a key exported
   // from src/components/icons.jsx
