@@ -10,7 +10,7 @@ const siteData = {
   logoAlt: 'Fnote Berhan Media Logo',
 
   titleAmharic: 'ፍኖተ ብርሀን ሚዲያ',
-  titleEnglish: 'Fnote Berhan Media',
+  titleEnglish: 'Finote Birhan Media',
 
   // descriptionEnglish:
   //   'A channel dedicated to spiritual growth and community building through Ethiopian Orthodox Tewahedo media.',
