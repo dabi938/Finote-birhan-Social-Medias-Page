@@ -16,9 +16,9 @@ export default function Header({ logoSrc, logoAlt, titleAmharic, titleEnglish, d
       <h2 className="hero__title-en">{titleEnglish}</h2>
 
       <p className="hero__desc">
-        {descriptionEnglish}
-        <br />
         <span className="hero__desc-am">{descriptionAmharic}</span>
+        <br />
+        <span className="hero__desc-am">{descriptionEnglish}</span>
       </p>
     </header>
   )

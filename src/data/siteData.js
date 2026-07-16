@@ -12,9 +12,10 @@ const siteData = {
   titleAmharic: 'ፍኖተ ብርሀን ሚዲያ',
   titleEnglish: 'Finote Birhan Media',
 
-  // descriptionEnglish:
-  //   'A channel dedicated to spiritual growth and community building through Ethiopian Orthodox Tewahedo media.',
-  descriptionAmharic: `ይህ በኢ/ኦ/ተ/ቤ/ክር፣ በሸ/ከ/የቡ/ክ/ከተማ የፄዴንያ ስመኝ ቅድስት ድንግል ማርያም ገዳም ፍኖተ ብርሃን ሰንበት ትምህርት ቤት ይፋዊ የማኅበራዊ ሚዲያ ገጽ ሊንኮች ማግኛ ፔጅ ነው።`,
+  descriptionEnglish:
+    'kun Mana Kiristaanaa Ortodoksi Tawaahidoo Itiyoophiyaatti Magaalaa Shaggar Kutaa Magaalaa Buraayyuutti Argannoo Fuula  Liinkii miidiyaa hawaasummaa Mana Barnootaa Sanbataa Finoota Birhaan Kawaala Tsedeniyaa Simmany Qulqulleettii Dubroo Maaryaamiiti',
+ 
+    descriptionAmharic: `ይህ በኢ/ኦ/ተ/ቤ/ክር፣ በሸ/ከ/የቡ/ክ/ከተማ የፄዴንያ ስመኝ ቅድስት ድንግል ማርያም ገዳም ፍኖተ ብርሃን ሰንበት ትምህርት ቤት ይፋዊ የማኅበራዊ ሚዲያ ገጽ ሊንኮች ማግኛ ፔጅ ነው።`,
 
   // Each link becomes one row. `icon` must match a key exported
   // from src/components/icons.jsx
