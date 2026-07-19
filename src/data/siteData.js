@@ -13,7 +13,7 @@ const siteData = {
   titleEnglish: 'Finote Birhan Media',
 
   descriptionEnglish:
-    'kun Mana Kiristaanaa Ortodoksi Tawaahidoo Itiyoophiyaatti Magaalaa Shaggar Kutaa Magaalaa Buraayyuutti Argannoo Fuula  Liinkii miidiyaa hawaasummaa Mana Barnootaa Sanbataa Finoota Birhaan Kawaala Tsedeniyaa Simmany Qulqulleettii Dubroo Maaryaamiiti',
+    '',
  
     descriptionAmharic: `ይህ በኢ/ኦ/ተ/ቤ/ክር፣ በሸ/ከ/የቡ/ክ/ከተማ የፄዴንያ ስመኝ ቅድስት ድንግል ማርያም ገዳም ፍኖተ ብርሃን ሰንበት ትምህርት ቤት ይፋዊ የማኅበራዊ ሚዲያ ገጽ ሊንኮች ማግኛ ፔጅ ነው።`,
 
