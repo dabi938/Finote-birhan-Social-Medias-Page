@@ -12,11 +12,10 @@ const siteData = {
   titleAmharic: 'ፍኖተ ብርሀን ሚዲያ',
   titleEnglish: 'Finote Birhan Media',
 
-  descriptionEnglish:
- `kun Mana Kiristaanaa Ortodoksi Tawaahidoo Itiyoophiyaatti Magaalaa Shaggar Kutaa Magaalaa Buraayyuutti Liinkii fuula miidiyaa hawaasaa
- Mana Barnootaa dilbataa Finoota Birhaan Kawaala Tsedeniyaa Simmany Qulqulleettii Dubroo Maaryaamii ittiin argannuudha`,
+  descriptionEnglish: `kun Mana Kiristaanaa Ortodoksi Tawaahidoo Itiyoophiyaatti Magaalaa Shaggar Kutaa Magaalaa Buraayyuutti Liinkii fuula miidiyaa hawaasaa
+Mana Barnootaa Dilbataa Finoota Birhaan Kawaala Tsedeniyaa Simmany Qulqulleettii Dubroo Maaryaamii ittiin argannuudha`,
 
-    descriptionAmharic: `ይህ በኢ/ኦ/ተ/ቤ/ክር፣ በሸ/ከ/የቡ/ክ/ከተማ የፄዴንያ ስመኝ ቅድስት ድንግል ማርያም ገዳም ፍኖተ ብርሃን ሰንበት ትምህርት ቤት ይፋዊ የማኅበራዊ ሚዲያ ገጽ ሊንኮች ማግኛ ፔጅ ነው።`,
+descriptionAmharic: `ይህ በኢ/ኦ/ተ/ቤ/ክር፣ በሸ/ከ/የቡ/ክ/ከተማ የፄዴንያ ስመኝ ቅድስት ድንግል ማርያም ገዳም ፍኖተ ብርሃን ሰንበት ትምህርት ቤት ይፋዊ የማኅበራዊ ሚዲያ ገጽ ሊንኮች ማግኛ ፔጅ ነው።`,
 
   // Each link becomes one row. `icon` must match a key exported
   // from src/components/icons.jsx
